@@ -15,7 +15,7 @@
 export const ALL_AGENTS = [
   'pre-recon',
   'recon',
-  'injection-vuln',
+  'injection-bmd',
   'xss-vuln',
   'auth-vuln',
   'ssrf-vuln',
